@@ -66,7 +66,11 @@ public class MyNewScript : MonoBehaviour {
         }
 
         array();
-	}
+        StartCoroutine(execute());
+
+        Player Warrior = new Player(100, 25, "Chutiya");
+        Warrior.info();
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -101,5 +105,11 @@ public class MyNewScript : MonoBehaviour {
         {
             print(a[i]);
         }
+    }
+
+    IEnumerator execute()   //doesn't run a function right 
+    {
+        yield return new WaitForSeconds(2f); 
+        Debug.Log("Print Something!!");
     }
 }
