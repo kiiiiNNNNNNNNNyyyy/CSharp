@@ -1,0 +1,8 @@
+D:\Git\CSharp\Programs\bin\Debug\netcoreapp1.1\Programs.deps.json
+D:\Git\CSharp\Programs\bin\Debug\netcoreapp1.1\Programs.runtimeconfig.json
+D:\Git\CSharp\Programs\bin\Debug\netcoreapp1.1\Programs.runtimeconfig.dev.json
+D:\Git\CSharp\Programs\bin\Debug\netcoreapp1.1\Programs.dll
+D:\Git\CSharp\Programs\bin\Debug\netcoreapp1.1\Programs.pdb
+D:\Git\CSharp\Programs\obj\Debug\netcoreapp1.1\Programs.AssemblyInfo.cs
+D:\Git\CSharp\Programs\obj\Debug\netcoreapp1.1\Programs.dll
+D:\Git\CSharp\Programs\obj\Debug\netcoreapp1.1\Programs.pdb
